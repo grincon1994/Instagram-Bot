@@ -4,9 +4,9 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import ElementClickInterceptedException
 import time
 
-SIMILAR_ACCOUNT = "feid"
-username = "pytho_ntut"
-pw = "python123"
+SIMILAR_ACCOUNT = "the account you want to target"
+username = "your username"
+pw = "your password"
 
 class InstaFollower:
 
